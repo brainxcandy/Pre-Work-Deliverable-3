@@ -1,0 +1,35 @@
+body {
+	background-color: grey;
+}
+
+header {
+	font-size: 30px;
+	color: red; font-family: cursive;}
+
+p {
+	font-size: 12px;}
+}
+a:link, a:visited {
+    display: block;
+    font-weight: bold;
+	color: #FFFFFF;
+    width: 120px;
+    text-align: center;
+    padding: 5px;
+    text-decoration: none;
+    text-transform: uppercase;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+a:hover, a:active {
+    background-color: #FFFCFC;
+	color: #858585;
+}
+td{
+	background-color:#0E8AFF;
+	text-align:center;
+	padding: 5px;
+}
+.container .navbar.navbar-default {
+	background-color: #828282;
+}
